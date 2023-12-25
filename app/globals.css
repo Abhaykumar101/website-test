@@ -10,3 +10,6 @@
     box-sizing: border-box;
 }
 
+.swiper-pagination-clickable .swiper-pagination-bullet{
+    background-color:#EC0B43;
+}

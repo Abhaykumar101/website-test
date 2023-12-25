@@ -6,7 +6,7 @@ function Herosection() {
         <div className="bg-[#FCDEB3] -mt-28 py-32 ">
         <div className="lg:gap-8 gap-7 bg-transparent flex md:flex-row flex-col-reverse justify-center items-start xl:items-center lg:mx-auto mx-4">
           <div className="md:w-1/2 lg:w-2/5 w-full bg-[#FFF] xl:py-16 lg:py-10 md:py-6 py-8 px-10 xl:px-14 flex flex-col rounded-2xl ">
-            <h2 className="md:text-md sm:text-base text-sm font-medium text-[#8c8c8c] tracking-widest ">
+            <h2 className="text-sm font-medium text-[#8c8c8c] tracking-widest ">
               TECHNOLOGY
             </h2>
             <h1 className="xl:text-[40px] lg:text-3xl md:text-2xl text-2xl font-bold  text-[#1C1A1A] lg:leading-[48px] md:leading-[30px] md:max-w-[500px]">
@@ -28,7 +28,7 @@ function Herosection() {
 
           <div className=" flex flex-col md:w-1/2 w-full">
             <img className="rounded-2xl" src="/image/pic1.png" />
-            <div className=" items-center justify-center bg-transparent lg:-mt-12 -mt-8 hidden">
+            <div className="flex items-center justify-center bg-transparent lg:-mt-12 -mt-8">
               <div className="xl:py-6 py-4 w-3/4 bg-slate-100 rounded-xl flex items-center justify-evenly">
                 <img
                   className="xl:w-36 xl:h-12 lg:w-24 lg:h-8  w-20 h-9 rounded-lg "

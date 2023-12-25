@@ -24,7 +24,7 @@ function Sectionone() {
 
   return (
     <div className="flex flex-col justify-center items-center py-8">
-      <div className="py-16 flex flex-col justify-center items-center gap-3">
+      <div className="py-16 flex flex-col justify-center items-center gap-3 lg:mx-4 mx-4">
         <h1 className="sm:text-[32px] text-[24px] font-bold text-[#1C1A1A] text-center">
           Revolutionize your E-Commerce business
         </h1>
