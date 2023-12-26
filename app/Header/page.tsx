@@ -12,7 +12,7 @@ function Header() {
             <h1 className="font-[650] text-[20px]">ooulet</h1>
           </div>
           <div className="w-6/12 flex justify-center">
-            <ul className="md:flex font-medium gap-4 items-center hidden">
+            <ul className="md:flex text-lg font-semibold gap-4 items-center hidden">
               <li>
                 <a href="#">Home</a>
               </li>
@@ -30,7 +30,7 @@ function Header() {
           <div className="w-3/12 md:flex justify-end lg:pr-14 hidden">
             <a
               href="#"
-              className="flex justify-center items-center font-medium text-white lg:px-14 lg:py-3 md:py-3 md:px-3 py-2 px-4 xl:text-base text-sm rounded-md bg-[#EC0B43]"
+              className="flex justify-center items-center font-bold text-white lg:px-14 lg:py-3 md:py-3 md:px-3 py-2 px-4 xl:text-base text-sm rounded-md bg-[#EC0B43]"
             >
               Contact Sales
             </a>

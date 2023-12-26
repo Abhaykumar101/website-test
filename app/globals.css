@@ -13,3 +13,10 @@
 .swiper-pagination-clickable .swiper-pagination-bullet{
     background-color:#EC0B43;
 }
+
+details[open] summary .opened{
+    display: flex !important;
+}
+details[open] summary .closed{
+    display: none !important;
+}
