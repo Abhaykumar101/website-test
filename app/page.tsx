@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Header from "./Header/page";
+import Header from "./Header/navbar";
 import Herosection from "./Herosection/herosection";
 import Head from "next/head";
 import Sectionone from "@/component/section1/sec1";
