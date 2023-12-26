@@ -14,7 +14,7 @@ import Footer from '@/component/footer/Footer'
 function Homepage() {
   return (
     <div>
-        <Header />
+      <Header />
       <Herosection />
       <Sectionone />
       <Sectionsecond />

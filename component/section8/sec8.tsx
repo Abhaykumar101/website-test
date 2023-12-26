@@ -62,6 +62,7 @@ function Sectioneight() {
         </p>
       </div>
       <div className="flex flex-col md:flex-row lg:flex-row xl:max-w-[1280px] mx-4 xl:mx-auto flex-wrap gap-5 justify-center items-center">
+        
         {QnaTrait.map((items: QnaData, index: number) => (
           <details
             key={index}
