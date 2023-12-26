@@ -15,7 +15,7 @@ function Sectionsixth(){
           </p>
         </div>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 gap-y-4 py-3 grid-cols-1 xl:max-w-[1200px] xl:mx-auto mx-4 ">
-          <div className=" xl:w-96 md:w-80 py-6 px-6 bg-white rounded-[20px] shadow-md ">
+          <div className=" xl:w-96 md:w-80 py-6 px-6 bg-white rounded-[20px] ">
             <div className="gap-4 flex flex-col justify-center items-start">
               <p className="xl:text-lg lg:text-base font-medium">
                 I can't believe how this app has changed my life! It's like

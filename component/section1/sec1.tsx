@@ -75,7 +75,7 @@ function Sectionone() {
               Pellentesque non sem ultricies, volutpat felis non, imperdiet leo.
             </p>
           </div>
-          <div   onMouseEnter={enterMouse} onMouseLeave={enterLeave} className="hover:bg-[#FCDEB3] hover:border-red-300  border py-4 px-10 flex flex-col justify-center items-start rounded-bl-[20px] md:rounded-br-[0px] rounded-br-[20px] cursor-pointer">
+          <div onMouseEnter={enterMouse} onMouseLeave={enterLeave} className="hover:bg-[#FCDEB3] hover:border-red-300  border py-4 px-10 flex flex-col justify-center items-start rounded-bl-[20px] md:rounded-br-[0px] rounded-br-[20px] cursor-pointer">
             <h2 className="sm:text-lg text-base font-bold">0% Platform Fee</h2>
             <p className="sm:text-sm text-xs font-medium">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
