@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import "./Modal.css";
+import "./modal.css";
 
 export default function Modal() {
   const [modal, setModal] = useState(false);
