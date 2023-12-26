@@ -42,7 +42,7 @@ function Header() {
               setShow(show === true ? false : true);
             }}
           >
-            <img src="/image/menu.png" alt="menu" className="" />
+            <img src="/image/menu.svg" alt="menu" className="w-3/5" />
             
           </button>
           <div className={`${show ? "block" : "hidden"} md:hidden h-[100vh] bg-black w-full absolute right-0 top-0 r group-hover:bg-red-700`}>
