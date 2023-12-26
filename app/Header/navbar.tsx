@@ -42,8 +42,8 @@ function Header() {
               setShow(show === true ? false : true);
             }}
           >
-            <img src="/image/menu.png" className="" />
-            <image>  </image>
+            <img src="/image/menu.png" alt="menu" className="" />
+            
           </button>
           <div className={`${show ? "block" : "hidden"} md:hidden h-[100vh] bg-black w-full absolute right-0 top-0 r group-hover:bg-red-700`}>
             <ul className="text-3xl font-medium leading-[60px] gap-4 py-8 flex-col justify-start flex items-center text-white h-full">

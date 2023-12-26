@@ -27,7 +27,7 @@ function Herosection() {
           </div>
 
           <div className=" flex flex-col md:w-1/2 w-full">
-            <img className="rounded-2xl" src="/image/pic1.png" />
+            <img className="rounded-2xl" src="/image/pic1.png" alt="image" />
             <div className="hidden items-center justify-center bg-transparent lg:-mt-12 -mt-8">
               <div className="xl:py-6 py-4 w-3/4 bg-slate-100 rounded-xl flex items-center justify-evenly">
                 <img
