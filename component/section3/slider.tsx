@@ -50,7 +50,7 @@ export default function App() {
             className="h-full rounded-[20px] object-cover object-center"
           ></img>
 
-          <div className="flex justify-center items-center -mt-40 group/edit invisible group-hover/item:visible ">
+          <div className="flex justify-center items-center -mt-40 opacity-90 md:opacity-100 group/edit md:invisible group-hover/item:visible ">
             <div className="gap-1 px-6 group rounded-xl md:w-80 w-64 md:h-36 h-32 bg-white flex flex-col justify-center items-center  shadow-sm transition-all duration-500">
               <h2 className="text-sm font-bold text-[#3C3C3C]">
               The Flower Bar
@@ -70,7 +70,7 @@ export default function App() {
             className="h-full w-[350px] rounded-[20px]"
           />
 
-            <div className="flex justify-center items-center -mt-40 group/edit invisible group-hover/item:visible">
+            <div className="flex justify-center items-center -mt-40 opacity-90 md:opacity-100 group/edit md:invisible group-hover/item:visible">
             <div className="gap-1 px-6 group rounded-xl md:w-80 w-64 md:h-36 h-32 bg-white flex flex-col justify-center items-center  shadow-sm">
               <h2 className="text-sm font-bold text-[#3C3C3C] group-hover:text-[#1f1f1f]">
               Hijab Junction
@@ -90,7 +90,7 @@ export default function App() {
             className="h-full w-[350px] rounded-[20px] "
           />
 
-            <div className="flex justify-center items-center -mt-40 group/edit invisible group-hover/item:visible">
+            <div className="flex justify-center items-center -mt-40 opacity-90 md:opacity-100 group/edit md:invisible group-hover/item:visible">
             <div className="gap-1 px-6 group rounded-xl md:w-80 w-64 md:h-36 h-32 bg-white flex flex-col justify-center items-center  shadow-sm">
               <h2 className="text-sm font-bold text-[#3C3C3C] group-hover:text-[#1f1f1f]">
                 Nappa Dori
@@ -110,7 +110,7 @@ export default function App() {
             className="h-full w-[350px] rounded-[20px]"
           />
 
-            <div className="flex justify-center items-center -mt-40 group/edit invisible group-hover/item:visible">
+            <div className="flex justify-center items-center -mt-40 opacity-90 md:opacity-100 group/edit md:invisible group-hover/item:visible">
             <div className="gap-1 px-6 group rounded-xl md:w-80 w-64 md:h-36 h-32 bg-white flex flex-col justify-center items-center  shadow-sm">
               <h2 className="text-sm font-bold text-[#3C3C3C] group-hover:text-[#1f1f1f]">
                 Serun Salon
@@ -130,7 +130,7 @@ export default function App() {
             className="h-full w-[350px] rounded-[20px] "
           />
 
-            <div className="flex justify-center items-center -mt-40 group/edit invisible group-hover/item:visible">
+            <div className="flex justify-center items-center -mt-40 opacity-90 md:opacity-100 group/edit md:invisible group-hover/item:visible">
             <div className="gap-1 px-6 group rounded-xl md:w-80 w-64 md:h-36 h-32 bg-white flex flex-col justify-center items-center  shadow-sm">
               <h2 className="text-sm font-bold text-[#3C3C3C] group-hover:text-[#1f1f1f]">
               R for Rabbit
@@ -150,7 +150,7 @@ export default function App() {
             className="h-full w-[350px] rounded-[20px] "
           />
 
-            <div className="flex justify-center items-center -mt-40 group/edit invisible group-hover/item:visible">
+            <div className="flex justify-center items-center -mt-40 opacity-90 md:opacity-100 group/edit md:invisible group-hover/item:visible">
             <div className="gap-1 px-6 group rounded-xl md:w-80 w-64 md:h-36 h-32 bg-white flex flex-col justify-center items-center  shadow-sm">
               <h2 className="text-sm font-bold text-[#3C3C3C] group-hover:text-[#1f1f1f]">
               Samyakk
@@ -170,7 +170,7 @@ export default function App() {
             className="h-full w-[350px] rounded-[20px] "
           />
 
-            <div className="flex justify-center items-center -mt-40 group/edit invisible group-hover/item:visible">
+            <div className="flex justify-center items-center -mt-40 opacity-90 md:opacity-100 group/edit md:invisible group-hover/item:visible">
             <div className="gap-1 px-6 group rounded-xl md:w-80 w-64 md:h-36 h-32 bg-white flex flex-col justify-center items-center  shadow-sm">
               <h2 className="text-sm font-bold text-[#3C3C3C] group-hover:text-[#1f1f1f]">
               BambooPecker
